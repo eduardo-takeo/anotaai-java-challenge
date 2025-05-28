@@ -7,7 +7,7 @@ Welcome to the Backend Analyst Candidate Test. This test aims to assess your gen
 
 <strong>The Challenge</strong>
 
-Your task is to develop an API using Node.js for a product catalog management system in a marketplace application. You should analyze and convert the following user stories into routes for the application:
+Your task is to develop an API using Java for a product catalog management system in a marketplace application. You should analyze and convert the following user stories into routes for the application:
 
 <strong>User Stories:</strong>
 
@@ -30,7 +30,7 @@ Your task is to develop an API using Node.js for a product catalog management sy
 - MongoDB for the database.
 - AWS SQS for the catalog change notifications.
 - AWS S3 for storing the catalog JSON.
-- Node.js for the backend.
+- Java for the backend.
 - Express.js as the web framework.
 
 <hr>
@@ -51,7 +51,7 @@ Your task is to develop an API using Node.js for a product catalog management sy
 <strong>Our Evaluation Criteria</strong>
 We will assess the following aspects of your solution:
 
-- Knowledge of JavaScript, Node.js, and Express.js.
+- Knowledge of Java and Spring.
 - Proper structure of the application layers.
 - Handling of outgoing calls.
 - Effective use of environment variables.
